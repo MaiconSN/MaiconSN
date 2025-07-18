@@ -10,7 +10,6 @@
 <p align="left">📚 Atualmente estudo Análise e Desenvolvimento de Sistemas pela <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a>.</p>
 <p align="left">🎓 Cursando a coleção Java Spring da <a href="https://devsuperior.com.br/">Escola de Programação DevSuperior</a>, do Professor Nelio Alves.</p>
 <p align="left">📚 Estudando Java, Spring Boot e boas práticas de desenvolvimento backend, arquitetura limpa e Cloud.</p>
-<p align="left">👾 Gosto de Games, musculação, acompanhar dicas de programação e estudar inglês.</p>
 <p align="left">📍 Guarulhos, SP, Brasil.</p>
 </div>
 
