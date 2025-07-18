@@ -29,4 +29,4 @@
 ## 📫 Contato:
 
 📧 Email: maicon.santos.nascimento@hotmail.com  
-💼 LinkedIn: [Marcos Shirafuchi](https://www.linkedin.com/in/maiconsantosnascimento/)
+💼 LinkedIn: [Maicon Nascimento](https://www.linkedin.com/in/maiconsantosnascimento/)
