@@ -24,4 +24,5 @@
 <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" title = "Postman"/></code>
 <code><img width="80px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg" title = "Eclipse"/></code>
+<code><img width="80px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" title = "Postgresql"/></code>
 
